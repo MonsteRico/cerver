@@ -1,0 +1,4 @@
+things on the list
+- HTTP 1.1
+- PUT DELETE ETC
+- concurrency

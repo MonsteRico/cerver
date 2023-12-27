@@ -1,0 +1,15 @@
+URL: /
+Host: localhost:8080
+Accept: */*
+Accept-Encoding: deflate, gzip
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0 X-Middleton/1
+Content-Type: application/json
+X-Real-IP: 128.210.106.81
+X-Forwarded-For: 64.227.21.251
+X-Forwarded-Host: matthewgardner.dev
+X-Forwarded-Server: matthewgardner.dev
+Content-Length: 20
+Connection: Keep-Alive
+Body: {
+	"valid": "json"
+}

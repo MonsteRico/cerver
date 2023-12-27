@@ -1,0 +1,27 @@
+URL: /
+Host: localhost:8080
+Content-Type: plain/text
+accept: */*
+accept-language: *
+sec-fetch-mode: cors
+user-agent: undici
+accept-encoding: br, gzip, deflate
+X-Forwarded-For: 128.210.106.81
+X-Forwarded-Host: matthewgardner.dev
+X-Forwarded-Server: matthewgardner.dev
+Content-Length: 230
+Connection: Keep-Alive
+Body: Installed App Ids
+appmanifest_212680.acf
+appmanifest_228980.acf
+appmanifest_246620.acf
+appmanifest_590380.acf
+appmanifest_607050.acf
+appmanifest_690040.acf
+common
+downloading
+libraryfolders.vdf
+shadercache
+sourcemods
+temp
+workshop
